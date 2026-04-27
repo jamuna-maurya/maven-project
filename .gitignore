@@ -1,0 +1,5 @@
+my-app/
+*.class
+*.jar
+*.log
+.DS_Store
